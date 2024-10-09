@@ -247,7 +247,7 @@ if __name__ == "__main__":
                 console.print("[bold red][!] Note:[/bold red]: please don't do King Rank on same account twice.", end=None)
                 sleep(2)
                 console.print("[%] Giving you a King Rank: ", end=None)
-                if cpm.set_player_rank():
+                cpm.(set_player_rank)
                 if status == 0:
                     print(Colorate.Horizontal(Colors.rainbow, 'SUCCESSFUL'))
                     print(Colorate.Horizontal(Colors.rainbow, '======================================'))
