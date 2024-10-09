@@ -248,6 +248,7 @@ if __name__ == "__main__":
                 sleep(2)
                 console.print("[%] Giving you a King Rank: ", end=None)
                 if cpm.set_player_rank():
+                if status == 0:
                     print(Colorate.Horizontal(Colors.rainbow, 'SUCCESSFUL'))
                     print(Colorate.Horizontal(Colors.rainbow, '======================================'))
                     answ = Prompt.ask("[?] Do You want to Exit ?", choices=["y", "n"], default="n")
