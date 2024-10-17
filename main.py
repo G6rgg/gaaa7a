@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from gaaa7a import G6rgg
+from cpmewan import CpmEwan
 
 __CHANNEL_USERNAME__ = "gaaa7a"
 __GROUP_USERNAME__   = "gaaa7a_77"
