@@ -8,7 +8,7 @@
 
 5. git clone https://github.com/G6rgg/gaaa7a.git
 
-6. cd G6rgg
+6. cd gaaa7a
 
 7. git pull
 
