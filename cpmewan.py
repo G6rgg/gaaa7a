@@ -1,8 +1,8 @@
 import requests
 from time import sleep
-BASE_URL: str = "https://red-viper-815239.hostingersite.com/api"
+BASE_URL: str = "https://red-viper-815239.hostingersite.com/api
 
-class CPMEwan:
+class cpmgala:
 
     def __init__(self, access_key) -> None:
         self.auth_token = None
