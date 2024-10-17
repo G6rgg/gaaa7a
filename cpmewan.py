@@ -2,7 +2,7 @@ import requests
 from time import sleep
 BASE_URL: str = "https://red-viper-815239.hostingersite.com/api"
 
-class G6rgg:
+class gaaa7a:
 
     def __init__(self, access_key) -> None:
         self.auth_token = None
